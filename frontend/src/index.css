@@ -1,0 +1,21 @@
+@font-face {
+  font-family: vazir;
+  src: url(../public/fonts/Vazirmatn-VariableFont_wght.ttf);
+}
+/* #157347 */
+* {
+  font-family: vazir;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.leaflet-container {
+  height: 100vh;
+}
+
+.header {
+  display: block;
+}
